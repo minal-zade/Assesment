@@ -39,15 +39,5 @@ It demonstrates:
 👩‍💻 Minal Zade
 Assessment Project — Django + Supabase + REST APIs
 Branch: minal-local
+Folder: backend
 GitHub Repo: https://github.com/minal-zade/Assesment
-
----
-
-✅ Save this as **`README.md`** inside your main project folder (`SBM_Assesment/`).  
-Then run:
-
-```bash
-git add README.md
-git commit -m "Added final README"
-git push origin minal-local
-```
