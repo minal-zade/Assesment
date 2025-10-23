@@ -17,7 +17,6 @@ It demonstrates:
 - **Backend:** Python (Django, DRF)
 - **Database:** Supabase PostgreSQL
 - **Frontend:** Simple HTML Template
-- **Hosting:** Render
 - **Version Control:** Git + GitHub
 
 ---
@@ -32,7 +31,9 @@ It demonstrates:
 
 ---
 
-## 📂 Folder Structure
+## Run the project
+
+Cmd:- python manage.py runserver
 
 📈 Author
 
